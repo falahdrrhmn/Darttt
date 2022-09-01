@@ -22,3 +22,8 @@ void main() {
 
 ```
 
+jalanin di terminal
+```ssh
+dart Test.dart
+```
+
