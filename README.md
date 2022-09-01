@@ -8,4 +8,17 @@
 
 ## SYNTAX BASIC
 
+bisa gini
+```dart
+main() { 
+   print("Hello World!"); 
+}
+```
+atau gini
+```dart
+void main() { 
+   print("Hello World!"); 
+}
+
+```
 
