@@ -5,3 +5,7 @@
 <div align = "center">
   <h2> BASIC DART </h2>
 </div>
+
+## SYNTAX BASIC
+
+
