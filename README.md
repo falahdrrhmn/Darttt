@@ -30,7 +30,13 @@ dart Test.dart
 ### Command
 
 ```dart
+//single line command
 
+/*
+multi
+line 
+command
+*/
 ```
 
 ```dart
