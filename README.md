@@ -41,6 +41,11 @@ command
 
 ### Data Type
 
+- Numbers
+- Strings
+- Booleans
+- Lists
+- Maps
 
 
 ```dart
