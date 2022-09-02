@@ -56,8 +56,18 @@ kumpulan huruf, contoh
 ```dart
 String contohString = "falah\n"; //bisa make /n hanjaayy
 print("Nama saya adalah " + contohString);
-
 ```
+
+#### INTEGER
+
+angka tanpa desimal
+
+```dart
+  int contohInt = 10;
+  print(contohInt + 10); //output 20 (10+10)
+```
+
+
 
 <br>
 <br>
