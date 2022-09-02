@@ -67,6 +67,11 @@ angka tanpa desimal, contoh
   print(contohInt + 10); //output 20 (10+10)
 ```
 
+#### NUM
+
+Bisa jadi tipe data integer atau double, kelemahan gabisa bikin angka desimal jadi sempurna, misal 0.1 + 0.2 harusnya jadi 0.3 tapi hasilnya bakal 0.30000000000000004 
+
+
 
 
 <br>
