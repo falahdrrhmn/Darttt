@@ -154,6 +154,21 @@ singkatnya true false
   print(contohBool2);
 ```
 
+#### VAR
+
+var merupakan tipe data yang digunakan untuk mendeklarasikan object dari variabel yang dipanggil  intinya ada di oop, susah diprakterkin
+
+#### FINAL
+
+final mendeskripsikan bahwa variable hanya satu kali setter dan tidak bisa berubah lagi.
+
+```dart
+final contohFinal = "ini final";
+  //kalo dirubah error nantinya
+  print(contohFinal);
+```
+
+
 
 
 
