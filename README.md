@@ -47,6 +47,12 @@ command
 - Lists
 - Maps
 
+Contoh
+
+#### STRING
+
+kumpulan huruf
+
 
 ```dart
 
