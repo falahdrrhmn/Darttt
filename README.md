@@ -71,6 +71,17 @@ angka tanpa desimal, contoh
 
 Bisa jadi tipe data integer atau double, kelemahan gabisa bikin angka desimal jadi sempurna, misal 0.1 + 0.2 harusnya jadi 0.3 tapi hasilnya bakal 0.30000000000000004 
 
+```dart
+num contonNum1 = 10;
+  print(contonNum1);
+  num contonNum2 = 10.2;
+  print(contonNum2 + 10.3); //kok hasilnya 20.5? gatau lah
+  num contonNum3 = 10.3;
+  print(contonNum2 + contonNum3); //sama aja 20.5... ndak taulah
+  num jumlahCoba = contonNum2 + contonNum3;
+  print(jumlahCoba); // sama aja 20.5
+```
+
 
 
 
