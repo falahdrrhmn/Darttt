@@ -128,7 +128,35 @@ Map<String, dynamic> contohMap = {
     "totalAdmin": 1,
     "supportSeo": 100,
   };
+
+  print(
+      contohMap); //output : {url: https://gepcode.com, domain: gepcode.com, penulis: Gilang Pratama, totalAdmin: 1, supportSeo: 100}
+  print(contohMap["domain"]); // output : gepcode.com
 ```
+
+#### OBJECT
+
+Merupakan kelas dasar dari semua object yang ada di dart, kurang lebih dipake di oop, barengan sama class, parameter, constructor dll
+
+```dart
+  Object contohObject = "Penulis";
+  print(contohObject);
+```
+
+#### BOOL
+
+singkatnya true false 
+
+```dart
+  bool contohBool1 = true;
+  bool contohBool2 = false;
+  print(contohBool1);
+  print(contohBool2);
+```
+
+
+
+
 
 <br>
 <br>
