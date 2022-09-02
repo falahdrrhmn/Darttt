@@ -168,10 +168,24 @@ final contohFinal = "ini final";
   print(contohFinal);
 ```
 
+#### CONST
 
+seperti namanya, const merupakan kependekan dari constant, yang artinya sama sama tidak bisa berubah. Mirip dengan final, tapi const merupakan level yang lebih dalam dari final.
 
+```dart
+const contohConst = "Ini cuma contoh";
+  //kalo dirubah error nantinya
+  print(contohConst);
+```
 
+#### PRINT
 
+Future digunakan dalam penggunaan asynchronous programming.
+    AGAK RIBET JELASINNYA  
+
+#### FUNCTION
+
+Function merupakan tipe data yang biasa digunakan untuk callback, MIRIP METHOD KALO DI JAVA, sama kayak di c++
 
 <br>
 <br>
