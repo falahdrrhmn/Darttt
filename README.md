@@ -115,8 +115,20 @@ print(ujang); // output : [patek, tomcat, apalah]
 print(ujang[0]); // output : patek
 ```
 
+#### MAP
 
+kurang lebih mirip sama json. pasangan key dan value. Setiap key dan valu  e dapat dideklarasikan tipe datanya. seperti Map<String, dynamic> 
+Dapat diartikan bahwa key memiliki tipe data String, dan value-nya memilki tipe data dynamic.
 
+```dart
+Map<String, dynamic> contohMap = {
+    "url": "https://gepcode.com",
+    "domain": "gepcode.com",
+    "penulis": "Gilang Pratama",
+    "totalAdmin": 1,
+    "supportSeo": 100,
+  };
+```
 
 <br>
 <br>
