@@ -82,6 +82,15 @@ num contonNum1 = 10;
   print(jumlahCoba); // sama aja 20.5
 ```
 
+#### DOUBLE
+
+desimal intinya 
+
+```dart
+double contohDouble = 10.2;
+print(contohDouble);
+```
+
 
 
 
