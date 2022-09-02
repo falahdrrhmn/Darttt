@@ -91,6 +91,30 @@ double contohDouble = 10.2;
 print(contohDouble);
 ```
 
+#### DYNAMIC
+
+tipe data yang isinya bisa berubah. dynamic bisa berupa integer, string, double, num, object, dan lain sebagainya.
+
+```dart
+  dynamic contohDynamic1 = 10;
+  dynamic contohDynamic2 = 10.19;
+  dynamic contohDynamic3 = "kampret";
+
+  print(contohDynamic1);
+  print(contohDynamic2);
+  print(contohDynamic3);
+```
+
+#### LIST
+
+tumpukan data sama aja kayak array. isi data dari List bisa dideskripsikan secara statis, contohnya List<double>, List<String>, List<int> , dan terserah lagi. Jika kalian tidak mendeklarasikan tipe data dari isi List, maka hasilnya akan menjadi List<dynamic>. List, memiliki kunci (key) untuk mengambil data secara spesifik, mirip sama index lah
+
+```dart
+List ujang = ["patek", "tomcat", "apalah"];
+print(ujang); // output : [patek, tomcat, apalah]
+print(ujang[0]); // output : patek
+```
+
 
 
 
