@@ -60,7 +60,7 @@ print("Nama saya adalah " + contohString);
 
 #### INTEGER
 
-angka tanpa desimal
+angka tanpa desimal, contoh
 
 ```dart
   int contohInt = 10;
