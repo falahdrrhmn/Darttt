@@ -192,7 +192,19 @@ Function merupakan tipe data yang biasa digunakan untuk callback, MIRIP METHOD K
 
 ### Statement
 
+if statement 
 
+```dart
+void main () {  
+  // define a variable which hold numeric value  
+  var n = 35;  
+   
+  // if statement check the given condition  
+  if (n<40){  
+    print("The number is smaller than 40")  
+  };  
+}  
+```
 
 
 <br>
