@@ -190,6 +190,14 @@ Function merupakan tipe data yang biasa digunakan untuk callback, MIRIP METHOD K
 <br>
 <br>
 
+### Statement
+
+
+
+
+<br>
+<br>
+
 <div align="center">
     Follow me!<br>
     <a href="https://bit.ly/3Qcg3s4">LinkedIn</a>
@@ -198,6 +206,7 @@ Function merupakan tipe data yang biasa digunakan untuk callback, MIRIP METHOD K
     ·
     <a href="https://bit.ly/3zqrTrP">Youtube</a>
 </div>
+
 
 
 
