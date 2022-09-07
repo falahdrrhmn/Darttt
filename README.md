@@ -291,7 +291,15 @@ void main() {
 }   
 ```
 
+### Dart Function
 
+```dart 
+int mul(int a, int b){  
+     int c;  
+     c = a+b;  
+     print("The sum is:${c}");  
+}  
+```
 
 
 <br>
